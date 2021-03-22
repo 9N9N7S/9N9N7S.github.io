@@ -748,7 +748,7 @@ body::after {
   height: 80vh;
 }
 .header-inner--bgcolor {
-  background-color: #333;
+  background-color: ;
 }
 .header-inner--height {
   height: 50px !important;
@@ -776,7 +776,7 @@ body::after {
 }
 .header-nav--sticky {
   position: fixed;
-  background-color: #333;
+  background-color: #2d2e30;
   -webkit-transform: translateY(-100%);
   -moz-transform: translateY(-100%);
   -o-transform: translateY(-100%);
@@ -1900,7 +1900,7 @@ body::after {
   border-radius: 50%;
   width: 22px;
   height: 22px;
-  background-color: #807871;
+  background-color: #fafafa;
   -webkit-transition: -webkit-transform 0.2s ease;
   -moz-transition: -moz-transform 0.2s ease;
   -o-transition: -o-transform 0.2s ease;
